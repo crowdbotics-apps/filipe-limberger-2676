@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT filipe_limberger_2676.wsgi:application
